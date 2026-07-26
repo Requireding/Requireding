@@ -3,10 +3,10 @@
             / | \           --------------------
          (O)- | -(O)        OS: ......... Windows
           | \ | / |         Uptime: ..... 20 years, 11 months
-         (O)-(O)-(O)        Kernel: ..... B.Tech CSE (AI & ML) at IILM University[cite: 1]
-          | / | \ |         Languages: .. Java, Python, SQL[cite: 1]
-         (O)- | -(O)        Skills: ..... n8n Automation, Machine Learning[cite: 1]
-            \ | /           Contact: .... infotoalokkumar@gmail.com[cite: 1]
+         (O)-(O)-(O)        Kernel: ..... B.Tech CSE (AI & ML) at IILM University
+          | / | \ |         Languages: .. Java, Python, SQL
+         (O)- | -(O)        Skills: ..... n8n Automation, Machine Learning
+            \ | /           Contact: .... infotoalokkumar@gmail.com
              (O)            
 ```
 
