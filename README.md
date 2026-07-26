@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**Requireding/Requireding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+        _______
+       /       \               Requireding@github
+      |   __   |               --------------------
+      |  |  |  |               OS: ......... Window
+      |  |__| /                Uptime: ..... [20] years, [11] months
+      |      /                 Kernel: ..... IILM STUDENT
+      |  |\  \                 Languages: .. Python, JavaScript, C++
+      |__| \__\                Hobbies: .... AI Engineering, Robotics
+                               Contact: .... infotoalokkumar@gmail.com
